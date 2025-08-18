@@ -32,6 +32,14 @@ Use quando for colocar o projeto no ar:
 npm run build
 npm start
 ```
+---
+
+## 📌 Observação Importante
+
+Projeto desenvolvido utilizando **React**, **Zod** e outras dependências.  
+⚠ Algumas bibliotecas usadas ainda **não oferecem suporte oficial às versões mais recentes** do React e Zod, portanto pode ser necessário **regredir para versões específicas** para rodar o projeto corretamente.
+
+---
 
 ---
 
